@@ -5,3 +5,4 @@ In this version of a neuron the horizontal bar is located at the top of the neur
 Visual Studio 2017 C# is required.
 Please notice the BigInteger and BigRational modules for big numbers of unlimited size are used.
 For demo start MKS console application. Watch the console Debug window to check for metrica change to 0.
+Any questions: akazant@gmail.com
